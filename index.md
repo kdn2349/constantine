@@ -1,31 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to Kevin's Personal GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kdn2349/constantine/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-You can contact me at [Kevin Morgan](mailto:kevingmorgan@gmail.com) to suggest changes.
+You can contact me at [kevingmorgan@gmail.com](mailto:kevingmorgan@gmail.com) to suggest changes.
 
-## Markdown
+## Highlights of my World
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am confined to my Office for now, but I am very anxious to get back on the road. Here is my Top Ten List of places that I want to go when I get out of this house:
 
-```markdown
-Syntax highlighted code block
+1. Walt Disney World...of course, it would be for Kathryn's birthday! 
+2. Virginia Beach (to get this cool Acura RDX)
+3. Denver...to go skiing
+4. London
+5. Paris 
+6. Germany
+7. Italy
+8. Israel
+9. Grand Canyon
+10. Yosemite National Park
 
-## Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 Here is a picture of Kathryn and Kaden taking a stroll in San Diego, circa 2009.
 ![Kathryn and Kaden](/images/katykaden_stroll.jpeg)
