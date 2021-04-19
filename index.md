@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/kdn2349/constantine/edit/g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-You can contact me at kevingmorgan@gmail.com to suggest changes.
+You can contact me at [kevingmorgan@gmail.com](kevingmorgan@gmail.com) to suggest changes.
 
 ## Markdown
 
