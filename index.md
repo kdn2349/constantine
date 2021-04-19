@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/kdn2349/constantine/edit/g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-You can contact me at kevingmorgan@gmail.com to suggest changes.
+You can contact me at ![Kevin Morgan](kevingmorgan@gmail.com) to suggest changes.
 
 ## Markdown
 
@@ -27,6 +27,11 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+Here is a picture of Kathryn and Kaden taking a stroll in San Diego, circa 2009.
+![Kathryn and Kaden](/images/logo.pngkatykaden_stroll.jpeg)
+
+Format: ![Alt Text](url)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
