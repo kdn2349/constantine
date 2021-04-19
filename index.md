@@ -28,7 +28,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 Here is a picture of Kathryn and Kaden taking a stroll in San Diego, circa 2009.
-![Kathryn and Kaden](/images/logo.pngkatykaden_stroll.jpeg)
+![Kathryn and Kaden](/images/katykaden_stroll.jpeg)
 
 Format: ![Alt Text](url)
 
