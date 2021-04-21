@@ -17,4 +17,5 @@ I am confined to my Office for now, but I am very anxious to get back on the roa
 
 ```
 Here is a picture of my wife, with a sinister glow, watching Star Trek.
-![Keno Glow](/images/keno_glow.jpeg)
+![_config.yml]({{ site.baseurl }}/images/keno_glow.jpeg)
+
