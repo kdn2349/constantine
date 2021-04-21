@@ -8,10 +8,10 @@ Some information about me
 
 ### More Information
 
-Navy Veteran
-Data Warehouse
-Business Intelligence
-Cognos Analytics
+Navy Veteran<br>
+Data Warehouse<br>
+Business Intelligence<br>
+Cognos Analytics<br>
 
 
 ### Contact me
